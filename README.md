@@ -109,5 +109,5 @@ Business-KPI-and-Reporting-Dashboard/
 
 **Isha Gunjal**
 
-B.Sc. Computer Science | Aspiring Data Analyst
+
 
